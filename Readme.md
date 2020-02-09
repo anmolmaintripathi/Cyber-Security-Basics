@@ -1,14 +1,14 @@
 # HACKING BASICS
 
 * ### DAY 1 : HTTP CLIENT SERVER MODEL
-  - [x] CLIENT-SERVER MODEL
-  - [x] CLIENT & SERVER
-  - [x] BROWSER : DEVELOPER TOOLS
-  - [x] CURL
-  - [x] WGET
+  - [x] Client & Server 
+  - [x] Client - Server Model
+  - [x] Browser : Developer Tools
+  - [x] Curl
+  - [x] Wget
   - [ ] DNS
-  - [ ] DIG
-  - [ ] INTERNET
+  - [ ] Dig
+  - [ ] Internet
 
 * ### DAY 2 : BROWSER
 
