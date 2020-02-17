@@ -13,7 +13,7 @@
 * ### DAY 2 : BROWSER
   - [x] Working of Browser 
   - [x] Headers
-  - [x] Cookies
+  - [x] Cookies & Tokens
   - [x] Cross-Origin Resource Sharing (CORS)
   - [x] Same-origin policy (SOP)
   - [x] Content Security Policy (CSP) 
