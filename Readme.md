@@ -20,7 +20,7 @@
   
 * ### DAY 3 : PROGRAMMING
    - [x] HTML
-  - [x] JavaScript
+  - [ ] JavaScript
   - [x] PHP
   
 * ### DAY 4 : ENCODING
