@@ -19,9 +19,9 @@
   - [x] Content Security Policy (CSP) 
   
 * ### DAY 3 : PROGRAMMING
-   - [ ] HTML
-  - [ ] JavaScript
-  - [ ] PHP
+   - [x] HTML
+  - [x] JavaScript
+  - [x] PHP
   
 * ### DAY 4 : ENCODING
 
