@@ -2,7 +2,7 @@
 
 * ### DAY 1 : HTTP CLIENT SERVER MODEL
   - [x] Client & Server 
-  - [x] Client - Server Model
+  - [x] [Client - Server Model](https://github.com/anmolmaintripathi/Cyber-Security-Basics/blob/master/DAY-1/Client%20Sever%20Architecture.md)
   - [x] Browser : Developer Tools
   - [x] Curl
   - [x] Wget
