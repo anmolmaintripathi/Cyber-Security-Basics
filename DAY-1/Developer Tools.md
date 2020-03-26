@@ -12,7 +12,9 @@ Developer Tools is a set of web developer tools built into the browser. You can 
   The following shows us different DevTools avalaiable : 
 ![dt 1](https://user-images.githubusercontent.com/45136496/77654083-968fb780-6f96-11ea-9c9d-17337a257819.png)
 
-### Element / Console / Page Inspector :
+### Element / Page Inspector :
   * View and edit page content and layout. Visualise many aspects of the page including the box model, animations, and grid layouts.
-  
-  ![dt 2](https://user-images.githubusercontent.com/45136496/77655407-5e897400-6f98-11ea-91b4-21fde2f01397.png)
+![dt 2](https://user-images.githubusercontent.com/45136496/77656023-46febb00-6f99-11ea-89ef-c1f33ae2a40c.png)
+
+
+### Console 
