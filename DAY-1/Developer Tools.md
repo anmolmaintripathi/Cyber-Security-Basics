@@ -19,12 +19,10 @@ Developer Tools is a set of web developer tools built into the browser. You can 
 * ### Console :
   * See messages logged by a web page and run JavaScript from the Console.
 
+![dt 3](https://media.prod.mdn.mozit.cloud/attachments/2018/12/10/16368/237f5cdbf70866ba5cd252395dc63971/landingPage_Console.png)
 
 
-* ### Sources :
+* ### Sources / Debugger :
   * Debug JavaScript, persist changes made in DevTools across page reloads, save and run snippets of JavaScript, and save changes that you make in DevTools to disk.
  
-  
-
-  
-![dt 5](https://youtu.be/QK4hKWmJVLo)
+![dt 4](https://media.prod.mdn.mozit.cloud/attachments/2018/12/10/16369/25185822c2389a3fe5eae3743264051e/landingPage_Debugger.png)
