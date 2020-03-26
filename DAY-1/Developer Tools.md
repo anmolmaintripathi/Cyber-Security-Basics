@@ -35,3 +35,7 @@ Developer Tools is a set of web developer tools built into the browser. You can 
   * Find ways to improve load and runtime performance and Analyze your site's general responsiveness, JavaScript, and layout performance.
   
 ![dt 6](https://media.prod.mdn.mozit.cloud/attachments/2018/12/10/16372/9f2cb0e6c766889fae6a432a2ebf4a95/landingPage_Performance.png)
+
+
+* [Refer for Chrome](https://developers.google.com/web/tools/chrome-devtools)
+* [Refer for Firefox](https://developer.mozilla.org/en-US/docs/Tools)
