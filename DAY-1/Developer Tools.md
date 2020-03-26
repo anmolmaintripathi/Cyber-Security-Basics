@@ -2,7 +2,7 @@
 
 Developer Tools is a set of web developer tools built into the browser. You can use them to examine, edit, and debug HTML, CSS, and JavaScript.
 
-###### NOTE : In this following example, _Chrome_ developer tools is been show. 
+###### NOTE: In this following example, _Chrome_ developer tools is been show. 
 
 * ### Opening the Developer tool
   * Developer tool can be opened using ***``` F12 ```***
@@ -13,8 +13,8 @@ Developer Tools is a set of web developer tools built into the browser. You can 
 ![dt 1](https://user-images.githubusercontent.com/45136496/77654083-968fb780-6f96-11ea-9c9d-17337a257819.png)
 
 ### Element / Page Inspector :
-  * View and edit page content and layout. Visualise many aspects of the page including the box model, animations, and grid layouts.
-![dt 2](https://user-images.githubusercontent.com/45136496/77656023-46febb00-6f99-11ea-89ef-c1f33ae2a40c.png)
+  * View and edit page content and layout. Visualize many aspects of the page including the box model, animations, and grid layouts.
+![dt 2](https://developers.google.com/web/tools/chrome-devtools/images/panels/elements.png)
 
 
 ### Console 
