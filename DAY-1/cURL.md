@@ -19,48 +19,11 @@
     ![curl 2](https://user-images.githubusercontent.com/45136496/77745663-b03a0900-7041-11ea-93a4-ee3155dd7eb5.gif)
 
     ###### NOTE: '-o' option is used to save the response in a file
-    ```console
-    fiesta@fiesta-VirtualBox:~/Desktop$ curl -o output.txt http://www.example.com
-      % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                     Dload  Upload   Total   Spent    Left  Speed
-    100  1256  100  1256    0     0    437      0  0:00:02  0:00:02 --:--:--   437
-    fiesta@fiesta-VirtualBox:~/Desktop$ cat output.txt
-    <!doctype html>
-    <html>
-    <head>
-        <title>Example Domain</title>
-        <meta charset="utf-8" />
-        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-    ....
-    ```
+    ![curl 3](https://user-images.githubusercontent.com/45136496/77746742-6c480380-7043-11ea-92ff-78d056b1a707.gif)
     
     ###### NOTE: '-O' will download the response file,as in the example it downloads the manual.html file 
-    ```console
-    fiesta@fiesta-VirtualBox:~/Desktop$ ls
-    output.txt
-    fiesta@fiesta-VirtualBox:~/Desktop$ curl -O https://curl.haxx.se/docs/manual.html
-      % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                     Dload  Upload   Total   Spent    Left  Speed
-    100 44194  100 44194    0     0   9781      0  0:00:04  0:00:04 --:--:--  9783
-    fiesta@fiesta-VirtualBox:~/Desktop$ ls
-    manual.html  output.txt
-    fiesta@fiesta-VirtualBox:~/Desktop$ cat manual.html
-    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-    <html>
-    <head> <TITLE>curl - Tutorial</TITLE>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-    <link rel="stylesheet" type="text/css" href="https://curl.haxx.se/curl.css">
-    .....
-    ```
-    ###### NOTE: multiple URLs can we entered in the single commands
-    ```console
-    fiesta@fiesta-VirtualBox:~$ curl https://www.example.com https://www.google.com
-    <!doctype html>
-    <html>
-        <head> <TITLE>curl - Tutorial</TITLE>
-    ..... 
-    ```
+    ![curl 4](https://user-images.githubusercontent.com/45136496/77746745-6d793080-7043-11ea-9827-ed7eea8617e4.gif)
+    
 ### Sending POST request :
  - As we have seen previous topic examples, when http requests are sent using 'GET' method, it is used to only to retrieve information from the given server using a given URL. Requests using GET would only retrieve data and should have no other effect on the data stored in the server.
     
