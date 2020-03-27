@@ -4,7 +4,7 @@
   - [x] [Client - Server Model](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-1/Client%20Sever%20Architecture.md)
   - [x] [Browser : Developer Tools](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-1/Developer%20Tools.md)
   - [x] [Curl](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-1/cURL.md)
-  - [x] Wget
+  - [x] [Wget](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-1/wget.md)
   - [ ] DNS
   - [ ] Dig
   - [ ] Internet
