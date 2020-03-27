@@ -13,35 +13,11 @@
     - In all of the below examples, the request is sent using the 'GET' method of http request and are just focusing on the response we get from the server.
     
     ###### NOTE: cURL command when executed will return the body of the response sent by the server
-    ```console
-    fiesta@fiesta-VirtualBox:~/Desktop$ curl https://www.example.com
-    <!doctype html>
-    <html>
-    <head>
-      <title>Example Domain</title>
-      <meta charset="utf-8" />
-      <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-    ....
-    ```
-  
+    ![curl 1](https://user-images.githubusercontent.com/45136496/77745657-af08dc00-7041-11ea-9aed-db6207bac619.gif)
+      
     ###### NOTE: '--head' option will display only the head of the response
-    ```console
-    fiesta@fiesta-VirtualBox:~/Desktop$ curl --head http://www.example.com
-    HTTP/1.1 200 OK
-    Accept-Ranges: bytes
-    Age: 413251
-    Cache-Control: max-age=604800
-    Content-Type: text/html; charset=UTF-8
-    D ate: Tue, 11 Feb 2020 09:55:06 GMT
-    Etag: "3147526947"
-    Expires: Tue, 18 Feb 2020 09:55:06 GMT
-    Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
-    Server: ECS (nyb/1D13)
-    X-Cache: HIT
-    Content-Length: 1256
+    ![curl 2](https://user-images.githubusercontent.com/45136496/77745663-b03a0900-7041-11ea-93a4-ee3155dd7eb5.gif)
 
-    fiesta@fiesta-VirtualBox:~/Desktop$
-    ```
     ###### NOTE: '-o' option is used to save the response in a file
     ```console
     fiesta@fiesta-VirtualBox:~/Desktop$ curl -o output.txt http://www.example.com
