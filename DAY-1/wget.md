@@ -6,6 +6,6 @@
   sudo apt-get install wget
   ```
   
-* ### Basic :
+### Basic :
   * wget Command can be used to download files using a by giving single or multiple url
-   
+   ![wget 1](https://user-images.githubusercontent.com/45136496/77756283-e5038b80-7054-11ea-98e5-4eea06f0b4f3.gif)
