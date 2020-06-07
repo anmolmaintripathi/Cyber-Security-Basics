@@ -20,4 +20,4 @@ Client Server Architecture is a computing model in which the server hosts, deliv
   7. **OPTIONS:** Describes the communication options for the target resource.
   8. **TRACE:** Performs a message loop-back test along the path to the target resource.
   
-FOR IN DETAIL INFORMATION REFER : [HTTP - METHODS](https://www.tutorialspoint.com/http/http_methods.htm)
+***FOR IN DETAIL INFORMATION REFER :** [HTTP - METHODS](https://www.tutorialspoint.com/http/http_methods.htm)
