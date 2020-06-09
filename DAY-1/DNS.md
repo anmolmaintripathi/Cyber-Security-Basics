@@ -30,4 +30,4 @@ The following diagram gives an overview of how recursive and authoritative DNS s
 - There is actually a third category for infrastructure domains, but it is almost never used. This category was created for the .arpa domain, which was a transitional domain used in the creation of modern DNS; its significance today is mostly historical.
 
 
-Refer For More : [What is DNA & Different Types of DNS](https://www.cloudflare.com/learning/dns/what-is-dns/)
+Refer For More : [What is DNS & Different Types of DNS](https://www.cloudflare.com/learning/dns/what-is-dns/)
