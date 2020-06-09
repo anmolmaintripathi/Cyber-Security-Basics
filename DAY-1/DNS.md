@@ -28,3 +28,6 @@ The following diagram gives an overview of how recursive and authoritative DNS s
   - **Country code top-level domains:** These include any domains that are specific to a country or state. Examples include .uk, .us, .ru, and .jp.
 
 - There is actually a third category for infrastructure domains, but it is almost never used. This category was created for the .arpa domain, which was a transitional domain used in the creation of modern DNS; its significance today is mostly historical.
+
+
+Refer For More : [What is DNA & Different Types of DNS](https://www.cloudflare.com/learning/dns/what-is-dns/)
