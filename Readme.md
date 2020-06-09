@@ -5,7 +5,7 @@
   - [x] [Browser : Developer Tools](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-1/Developer%20Tools.md)
   - [x] [Curl](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-1/cURL.md)
   - [x] [Wget](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-1/wget.md)
-  - [ ] DNS
+  - [x] [DNS](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-1/DNS.md)
   - [ ] Dig
   - [ ] Internet
 
