@@ -6,7 +6,7 @@
   - [x] [Curl](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-1/cURL.md)
   - [x] [Wget](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-1/wget.md)
   - [x] [DNS](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-1/DNS.md)
-  - [ ] Dig
+  - [x] [Dig](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-1/dig.md)
   - [ ] Internet
 
 * ### DAY 2 : BROWSER
