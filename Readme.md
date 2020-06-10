@@ -10,12 +10,12 @@
   - [ ] Internet
 
 * ### DAY 2 : BROWSER
-  - [x] Working of Browser 
+  - [x] [Working of Browser](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-2/working_of_browser.md)
   - [x] Headers
   - [x] Cookies & Tokens
-  - [x] Cross-Origin Resource Sharing (CORS)
-  - [x] Same-origin policy (SOP)
-  - [x] Content Security Policy (CSP) 
+  - [x] [Cross-Origin Resource Sharing (CORS)](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-2/Cross-Origin%20Resource%20Sharing%20(CORS).md)
+  - [x] [Same-origin policy (SOP)](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-2/Same-origin%20policy.md)
+  - [x] [Content Security Policy (CSP)](https://github.com/anmolmanitripathi/Cyber-Security-Basics/blob/master/DAY-2/Content%20Security%20Policy%20(CSP).md)
   
 * ### DAY 3 : PROGRAMMING
    - [x] HTML
