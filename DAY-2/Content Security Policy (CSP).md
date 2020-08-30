@@ -6,5 +6,4 @@
 
 To enable CSP, you need to configure your web server to return the `Content-Security-Policy` HTTP header
 
-
 Refer This : [CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
